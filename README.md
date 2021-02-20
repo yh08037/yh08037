@@ -7,11 +7,11 @@ Majoring in [Electronics Engineering](https://see.knu.ac.kr/)<br>
 Research Student at [Mobile Communication Lab.](http://mimocom.knu.ac.kr/)<br>
 
 ### 🔭 I’m currently working on
-Project: Distributed Underwater Monitoring & Controlling Network
+Project: Distributed Underwater Monitoring and Controlling Network
 
 ### 📖 I’m currently learning
-Quantum Computing & [Qiskit](https://qiskit.org)<br>
-Quantum Machine Learning & [PennyLane](https://pennylane.ai)<br>
+Quantum Computing with [Qiskit](https://qiskit.org)<br>
+Quantum Machine Learning with [PennyLane](https://pennylane.ai)<br>
 ML assisted MAC scheme for Underwater Sensor Network<br>
 
 ### 🎉 Recent Awards
