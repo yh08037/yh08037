@@ -12,6 +12,7 @@ Project: Distributed Underwater Monitoring & Controlling Network
 ### 📖 I’m currently learning
 Quantum Computing & Qiskit<br>
 Quantum Machine Learning & PennyLane<br>
+ML assisted MAC scheme for Underwater Sensor Network<br>
 
 ### 🎉 Recent Awards
 [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) - Community Choice Award Winner (Feb. 2021)<br>
