@@ -2,16 +2,16 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yh08037&show_icons=true&theme=tokyonight)
 
 ### 🔥 Dohun Kim
-Senior in Kyungpook National University<br>
-Majoring Electronics Engineering<br>
-Reaserch Student at Mobile Communication Lab.<br>
+Senior in [Kyungpook National University](https://knu.ac.kr/)<br>
+Majoring in [Electronics Engineering](https://see.knu.ac.kr/)<br>
+Research Student at [Mobile Communication Lab.](http://mimocom.knu.ac.kr/)<br>
 
 ### 🔭 I’m currently working on
 Project: Distributed Underwater Monitoring & Controlling Network
 
 ### 📖 I’m currently learning
-Quantum Computing & Qiskit<br>
-Quantum Machine Learning & PennyLane<br>
+Quantum Computing & [Qiskit](https://qiskit.org)<br>
+Quantum Machine Learning & [PennyLane](https://pennylane.ai)<br>
 ML assisted MAC scheme for Underwater Sensor Network<br>
 
 ### 🎉 Recent Awards
