@@ -7,7 +7,7 @@ Majoring in [Electronics Engineering](https://see.knu.ac.kr/)<br>
 Research Student at [Mobile Communication Lab.](http://mimocom.knu.ac.kr/)<br>
 
 ### 🔭 I’m currently working on
-Lab Project: Distributed Underwater Monitoring and Controlling Network
+Lab Project: Distributed Underwater Monitoring and Controlling Network<br>
 Capstone Design: Team [SIB](https://github.com/sib-knu) - [Brain AI Lab](https://knu-brainai.github.io/)<br>
 
 ### 📖 I’m currently learning
