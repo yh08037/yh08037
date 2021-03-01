@@ -2,7 +2,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yh08037&show_icons=true&theme=tokyonight)
 
 ### 🔥 Dohun Kim
-Senior in [Kyungpook National University](https://knu.ac.kr/)<br>
+Senior at [Kyungpook National University](https://knu.ac.kr/)<br>
 Majoring in [Electronics Engineering](https://see.knu.ac.kr/)<br>
 Research Student at [Mobile Communication Lab.](http://mimocom.knu.ac.kr/)<br>
 
