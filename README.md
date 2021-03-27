@@ -14,6 +14,7 @@ Capstone Design: Team [SIB](https://github.com/orgs/KNU-BrainAI-Capstone2021/tea
 ### 📖 I’m currently learning
 Quantum Computing with [Qiskit](https://qiskit.org)<br>
 Quantum Machine Learning with [PennyLane](https://pennylane.ai)<br>
+Digital Design and Synthesis with Verilog<br>
 
 ### 🎉 Recent Awards
 [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) - Community Choice Award Winner (Feb. 2021)<br>
