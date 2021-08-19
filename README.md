@@ -7,14 +7,11 @@ Majoring in [Electronics Engineering](https://see.knu.ac.kr/)<br>
 Research Student at [Mobile Communication Lab.](http://mimocom.knu.ac.kr/)<br>
 
 ### 🔭 I’m currently working on
-Teaching: Gnb Python & AI Study 20211 - [study repository](https://github.com/gnbhub/gnbai20211)<br>
 Lab Project: Development of Distributed Underwater Monitoring and Control Networks<br>
-Capstone Design: Team [SIB](https://github.com/orgs/KNU-BrainAI-Capstone2021/teams/sib) - Keyboard-free Typing System with Deep Learning<br>
 
 ### 📖 I’m currently learning
 Quantum Computing with [Qiskit](https://qiskit.org)<br>
 Quantum Machine Learning with [PennyLane](https://pennylane.ai)<br>
-Digital Design and Synthesis with Verilog<br>
 
 ### 🎉 Recent Awards
 [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) - Community Choice Award Winner (Feb. 2021)<br>
