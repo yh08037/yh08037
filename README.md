@@ -8,6 +8,7 @@ Research Student at [Mobile Communication Lab.](http://mimocom.knu.ac.kr/)<br>
 
 ### 🔭 I’m currently working on
 Lab Project: Development of Distributed Underwater Monitoring and Control Networks<br>
+KR SA Joint & Collaborative Cody Event [(link)](https://www.mathworks.com/matlabcentral/cody/groups/29269)<br>
 
 ### 📖 I’m currently learning
 Quantum Computing with [Qiskit](https://qiskit.org)<br>
