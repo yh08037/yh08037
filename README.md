@@ -13,10 +13,10 @@ Undergraduate Student Researcher in [Mobile Communication Lab.](http://mimocom.k
 ### 🔭 I’m currently working on
 Lab Project: Development of Distributed Underwater Monitoring and Control Networks<br>
  -->
- 
+<!--  
 ### 📖 I’m currently learning
 Quantum Computing with [Qiskit](https://qiskit.org)<br>
-Quantum Machine Learning with [PennyLane](https://pennylane.ai)<br>
+Quantum Machine Learning with [PennyLane](https://pennylane.ai)<br> -->
 
 ### 🎉 Recent Awards
 [KR SA Joint & Collaborative Cody Event](https://www.mathworks.com/matlabcentral/cody/groups/29269) - 1st Place Winner : 최초완주자 + 최고득점자 (Nov. 2021)<br>
