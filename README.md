@@ -19,7 +19,7 @@ Quantum Computing with [Qiskit](https://qiskit.org)<br>
 Quantum Machine Learning with [PennyLane](https://pennylane.ai)<br> -->
 
 ### 🎉 Recent Awards
-[KR SA Joint & Collaborative Cody Event](https://www.mathworks.com/matlabcentral/cody/groups/29269) - 1st Place Winner : First Finisher & Top Scorer (Nov. 2021)<br>
+[2021 MathWorks Korea MATLAB Cody Challenge](https://www.mathworks.com/matlabcentral/cody/groups/29269) - 1st Place Winner : First Finisher & Top Scorer (Nov. 2021)<br>
 2021년 2학기 학부 연구생 프로그램 - URP 장학생 선발 (Aug. 2021)<br>
 [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) - Community Choice Award Winner (Feb. 2021)<br>
 [경북대학교 전자공학부 SW중심대학 2020년 참여학생 평가](https://github.com/knuee/sw2020/blob/main/evaluation1.md) - 1위 (Dec. 2020)<br>
