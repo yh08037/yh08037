@@ -5,9 +5,13 @@
 MS student at EE, [POSTECH](https://ee.postech.ac.kr/) (Feb. 2022 - Ongoing)<br>
 Working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)<br>
 
+### 🔬 Research Area
+- Design Automation in Quantum Computing
+- VLSI CAD (Computer-aided Design)
+
 ### ⚡ Publications
 **Conference**
-  - [1] Sunghye Park, **Dohun Kim**, Jae-Yoon Sim, and Seokhyeong Kang, “MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device,” *in 2022 41th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022 [accepted].
+- [1] Sunghye Park, **Dohun Kim**, Jae-Yoon Sim, and Seokhyeong Kang, “MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device,” *in 2022 41th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022 [accepted].
 
 ### 🎉 Awards
 - First Place, [2021 MathWorks Korea MATLAB Cody Challenge](https://www.mathworks.com/matlabcentral/cody/groups/29269) (Nov. 2021)
