@@ -14,6 +14,7 @@ Working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postec
 - [1] Sunghye Park, **Dohun Kim**, Jae-Yoon Sim, and Seokhyeong Kang, “MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device,” *in 2022 41th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022 [accepted].
 
 ### 🎉 Awards
+- Excellence Award, 2022 IonQ & QCenter Quantum Challenge (Oct. 2022)
 - First Place, [2021 MathWorks Korea MATLAB Cody Challenge](https://www.mathworks.com/matlabcentral/cody/groups/29269) (Nov. 2021)
 - Community Choice Award, [Qiskit Hackathon Korea 2021](https://github.com/yh08037/quantum-neural-network) (Feb. 2021)
 - OnDream Future Technology Scholarship, Hyundai Motor Chung Mong-Koo Foundation (Jul. 2019 – Feb. 2022)
