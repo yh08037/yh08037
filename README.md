@@ -6,6 +6,7 @@ MS student at EE, [POSTECH](https://ee.postech.ac.kr/) (Feb. 2022 - Ongoing)<br>
 Working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)<br>
 
 ### 🔬 Research Area
+- Quantum Machine Learning
 - Design Automation in Quantum Computing
 - VLSI CAD (Computer-aided Design)
 
