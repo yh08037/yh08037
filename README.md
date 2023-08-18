@@ -11,9 +11,10 @@ Working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postec
 - VLSI CAD (Computer-aided Design)
 
 ### ⚡ Publications
-**Conference**
-- [1] Haena Song, Jongho Yoon, **Dohun Kim**, Eunji Kwon, Tae-Hyun Oh, and Seokhyeong Kang, "FPGA-Based Accelerator for Rank-Enhanced and Highly-Pruned Block-Circulant Neural Networks," in *2023 IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE)*, 2023 [accepted].
-- [2] Sunghye Park, **Dohun Kim**, Jae-Yoon Sim, and Seokhyeong Kang, “[MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device](https://dl.acm.org/doi/abs/10.1145/3508352.3549462),” in *2022 41th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022.
+**Conference Paper**
+- [1] Kyungjun Min, Seongbin Kwon, Sung-Yun Lee, **Dohun Kim**, Sunghye Park, and Seokhyeong Kang, "ClusterNet: Routing Congestion Prediction and Optimization using Netlist Clustering and Graph Neural Networks", in *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2023. (accepted)
+- [2] Haena Song, Jongho Yoon, **Dohun Kim**, Eunji Kwon, Tae-Hyun Oh, and Seokhyeong Kang, "[FPGA-Based Accelerator for Rank-Enhanced and Highly-Pruned Block-Circulant Neural Networks](https://doi.org/10.23919/DATE56975.2023.10137111)," in *IEEE/ACM Design, Automation and Test in Europe Conference & Exhibition (DATE)*, 2023.
+- [3] Sunghye Park, **Dohun Kim**, Jae-Yoon Sim, and Seokhyeong Kang, “[MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device](https://doi.org/10.1145/3508352.3549462),” in *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022.
 
 ### 🎉 Awards
 - QML Overall Challenge 1st Place Winner, 2022 qBraid HAQS (Nov. 2022)
@@ -29,7 +30,6 @@ Working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postec
 ### 👨🏻‍💻 Expriences
 - Undergraduate Student Researcher in [Mobile Communication Lab.](http://mimocom.knu.ac.kr) (Aug.2020 - Jan.2022)
 - Undergraduate Trainee in [Artificial Brain Research Lab.](http://abr.knu.ac.kr) (Mar.2019 - Jul.2020)
-
 
 ### 📫 How to reach me
 - email : dohunkim@postech.ac.kr<br>
