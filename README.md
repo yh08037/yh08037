@@ -1,14 +1,15 @@
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yh08037&show_icons=true&theme=tokyonight)
 -->
-### 🔥 Dohun Kim
+### Dohun Kim
 Ph.D. student at EE, [POSTECH](https://ee.postech.ac.kr/) (Feb. 2022 - Ongoing)<br>
 Working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)<br>
 
-### 🔬 Research Area
+### Research Area
 - Quantum machine learning and its applications
 - Design automation methods for quantum computing
 
+<!--
 ### ⚡ Publications
 **Conference Paper**
 - [3] Kyungjun Min, Seongbin Kwon, Sung-Yun Lee, **Dohun Kim**, Sunghye Park, and Seokhyeong Kang, "ClusterNet: Routing Congestion Prediction and Optimization using Netlist Clustering and Graph Neural Networks", in *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2023. (accepted)
@@ -33,3 +34,4 @@ Working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postec
 ### 📫 How to reach me
 - email : dohunkim@postech.ac.kr<br>
 - [LinkedIn](https://www.linkedin.com/in/dohunkim99/) 
+-->
